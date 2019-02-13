@@ -1,0 +1,13 @@
+Ejercicio práctico:
+
+Nota: documente muy bien cada uno de los pasos que realice
+
+1. Clone este repositorio https://github.com/jcorreaITM/lab0_2019_1.git a un directorio en el PC donde usted está ubicado.
+2. Cree un nuevo repositorio en GitHub con su cuenta de usuario (si no tiene una, creela ahora mismo por favor)
+3. Agregue al repositorio un nuevo archivo de texto llamado "C++", editelo con alguna entrada del siguiente post: https://es.quora.com/Que-es-c++
+4. Cree un "branch" y en este agregrue un nuevo archivo de texto llamado "El mejor", editelo con alguna entrada del siguiente post: https://es.quora.com/Cu%C3%A1l-es-el-mejor-IDE-para-C-y-C++
+5. Copie el contenido del archivo secuencia.txt en el sitio https://www.onlinegdb.com/online_c++_compilero en el sitio http://cpp.sh y reemplace el codigo del archivo con la secuencia de números al ejecutar el programa.
+6. Fusione los cambios hechos en el branch con el contenido de la rama original del repositorio.
+7. Es posible que el repositorio original haya cambiado, actualice su respositorio con los cambios.
+8. Agregue la documentación de los pasos jecutados en un archivo doku.txt su repositorio.
+9. Envíe al correo juancorrea@itm.edu.co el enlace para clonar su repositorio.
